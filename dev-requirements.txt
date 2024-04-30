@@ -1,3 +1,12 @@
 GitPython==3.1.17
 black[jupyter]==22.6.0
 pre-commit==2.*
+pytest  # Add pytest for running tests
+numpy  # Often used for data manipulation and mathematical operations
+pandas  # Essential for data analysis and manipulation
+scikit-learn  # Commonly used for machine learning algorithms
+matplotlib  # For plotting graphs
+seaborn  # For more advanced statistical plotting
+jupyterlab  # If using Jupyter notebooks
+scipy  # For scientific computing like integrations
+joblib  # For saving models or other large data transformations
